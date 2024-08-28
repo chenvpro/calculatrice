@@ -36,4 +36,3 @@ const calculer = (valeur) => {
 window.addEventListener('error', (e) => {
     alert('une erreur est survenu dans votre calcul')
 })
-const yea = document.querySelectorAll
